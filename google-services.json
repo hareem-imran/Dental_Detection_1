@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882791293408",
+    "firebase_url": "https://dental-detection-app-333a8.firebaseio.com",
+    "project_id": "dental-detection-app-333a8",
+    "storage_bucket": "dental-detection-app-333a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882791293408:android:ab395dfe85ee7257b20b85",
+        "android_client_info": {
+          "package_name": "com.example.dentaldetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882791293408-dfu9908gt6pepcpobqtf3fe2lu3auifj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dentaldetectionapp",
+            "certificate_hash": "e7627185fd733a311a03a113932befc720039505"
+          }
+        },
+        {
+          "client_id": "882791293408-mofh4bcvfrtt1u5vc2v0ll3srcp4vovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvx0wG7xBxo8AZgZRz4O6m78Y9lQGcU1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882791293408-mofh4bcvfrtt1u5vc2v0ll3srcp4vovr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
